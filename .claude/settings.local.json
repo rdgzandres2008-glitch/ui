@@ -10,5 +10,6 @@
     ],
     "deny": []
   },
-  "outputStyle": "Explanatory"
+  "outputStyle": "Explanatory",
+  "enabledMcpjsonServers": ["shadcn"]
 }
